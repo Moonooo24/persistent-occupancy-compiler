@@ -1,0 +1,80 @@
+{
+  "status": "all12_actual_full_entry_trials_passed",
+  "rows": [
+    {
+      "n": 32,
+      "modules": 16,
+      "distinct_candidates": 2,
+      "wall_median": 0.47020193096250296,
+      "CPU_median": 0.4699517590000002,
+      "RSS_max_MiB": 114.95703125,
+      "metrics": {
+        "cx": 974,
+        "qubits": 32,
+        "depth": 1095,
+        "two_qubit_depth": 453,
+        "rz": 1424,
+        "total_1q": 1744,
+        "parameterized_rz": 528
+      }
+    },
+    {
+      "n": 64,
+      "modules": 32,
+      "distinct_candidates": 2,
+      "wall_median": 1.2609677800210193,
+      "CPU_median": 1.2608550189999999,
+      "RSS_max_MiB": 122.8828125,
+      "metrics": {
+        "cx": 1956,
+        "qubits": 64,
+        "depth": 1781,
+        "two_qubit_depth": 737,
+        "rz": 2848,
+        "total_1q": 3480,
+        "parameterized_rz": 1056
+      }
+    },
+    {
+      "n": 128,
+      "modules": 64,
+      "distinct_candidates": 2,
+      "wall_median": 4.3487812370294705,
+      "CPU_median": 4.347930599,
+      "RSS_max_MiB": 147.625,
+      "metrics": {
+        "cx": 3912,
+        "qubits": 128,
+        "depth": 2034,
+        "two_qubit_depth": 841,
+        "rz": 5696,
+        "total_1q": 7012,
+        "parameterized_rz": 2112
+      }
+    },
+    {
+      "n": 256,
+      "modules": 128,
+      "distinct_candidates": 2,
+      "wall_median": 20.035085299052298,
+      "CPU_median": 20.032638257,
+      "RSS_max_MiB": 195.4765625,
+      "metrics": {
+        "cx": 7834,
+        "qubits": 256,
+        "depth": 2239,
+        "two_qubit_depth": 929,
+        "rz": 11392,
+        "total_1q": 13996,
+        "parameterized_rz": 4224
+      }
+    }
+  ],
+  "hardware": "Intel(R) Xeon(R) Gold 6448Y",
+  "logical_cores": 128,
+  "python": "3.12.3",
+  "single_thread_per_process": true,
+  "concurrent_workers": 12,
+  "imports_excluded": true,
+  "routing_not_included": true
+}

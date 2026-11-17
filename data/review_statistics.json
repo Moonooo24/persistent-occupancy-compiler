@@ -1,0 +1,1120 @@
+{
+  "cohorts": {
+    "main144": {
+      "ref": 611250,
+      "none": 493228,
+      "out": 473016,
+      "n_graph": 62,
+      "analyzed": 134,
+      "cache_net_pct": 4.097901984477767,
+      "cache_share_pct": 14.621583691421792
+    },
+    "new_confirmation72": {
+      "ref": 442568,
+      "none": 390280,
+      "out": 354650,
+      "n_graph": 36,
+      "analyzed": 72,
+      "cache_net_pct": 9.12934303576919,
+      "cache_share_pct": 40.52639959962693
+    },
+    "sweep120": {
+      "ref": 972132,
+      "none": 856548,
+      "out": 825400,
+      "n_graph": 12,
+      "analyzed": 120,
+      "cache_net_pct": 3.636457034515287,
+      "cache_share_pct": 21.22781669983371
+    },
+    "public24": {
+      "ref": 205334,
+      "none": 167404,
+      "out": 166620,
+      "n_graph": 12,
+      "analyzed": 24,
+      "cache_net_pct": 0.46832811641298894,
+      "cache_share_pct": 2.0251071963630727
+    }
+  },
+  "controlled": [
+    {
+      "block": "pairs",
+      "coverage": 0.0,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 384,
+        "all_cache": 384,
+        "selected_cache": 384,
+        "matched_exact_clique": 448
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.0,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 768,
+        "all_cache": 768,
+        "selected_cache": 768,
+        "matched_exact_clique": 896
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.0,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1536,
+        "all_cache": 1536,
+        "selected_cache": 1536,
+        "matched_exact_clique": 1792
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.0,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 384,
+        "all_cache": 384,
+        "selected_cache": 384,
+        "matched_exact_clique": 448
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.0,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 768,
+        "all_cache": 768,
+        "selected_cache": 768,
+        "matched_exact_clique": 896
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.0,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1536,
+        "all_cache": 1536,
+        "selected_cache": 1536,
+        "matched_exact_clique": 1792
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 416,
+        "all_cache": 416,
+        "selected_cache": 416,
+        "matched_exact_clique": 480
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 824,
+        "all_cache": 824,
+        "selected_cache": 824,
+        "matched_exact_clique": 952
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1640,
+        "all_cache": 1640,
+        "selected_cache": 1640,
+        "matched_exact_clique": 1896
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 414,
+        "all_cache": 414,
+        "selected_cache": 414,
+        "matched_exact_clique": 478
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 826,
+        "all_cache": 826,
+        "selected_cache": 826,
+        "matched_exact_clique": 954
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1650,
+        "all_cache": 1650,
+        "selected_cache": 1650,
+        "matched_exact_clique": 1906
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 416,
+        "all_cache": 416,
+        "selected_cache": 416,
+        "matched_exact_clique": 480
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 824,
+        "all_cache": 824,
+        "selected_cache": 824,
+        "matched_exact_clique": 952
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1640,
+        "all_cache": 1640,
+        "selected_cache": 1640,
+        "matched_exact_clique": 1896
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 420,
+        "all_cache": 420,
+        "selected_cache": 420,
+        "matched_exact_clique": 484
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 836,
+        "all_cache": 836,
+        "selected_cache": 836,
+        "matched_exact_clique": 964
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.25,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1668,
+        "all_cache": 1668,
+        "selected_cache": 1668,
+        "matched_exact_clique": 1924
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 448,
+        "all_cache": 448,
+        "selected_cache": 448,
+        "matched_exact_clique": 512
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 880,
+        "all_cache": 880,
+        "selected_cache": 880,
+        "matched_exact_clique": 1008
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1744,
+        "all_cache": 1744,
+        "selected_cache": 1744,
+        "matched_exact_clique": 2000
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 454,
+        "all_cache": 454,
+        "selected_cache": 454,
+        "matched_exact_clique": 518
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 900,
+        "all_cache": 900,
+        "selected_cache": 900,
+        "matched_exact_clique": 1028
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1792,
+        "all_cache": 1792,
+        "selected_cache": 1792,
+        "matched_exact_clique": 2048
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 448,
+        "all_cache": 446,
+        "selected_cache": 446,
+        "matched_exact_clique": 512
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 884,
+        "all_cache": 878,
+        "selected_cache": 878,
+        "matched_exact_clique": 1012
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1756,
+        "all_cache": 1742,
+        "selected_cache": 1742,
+        "matched_exact_clique": 2012
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 452,
+        "all_cache": 450,
+        "selected_cache": 450,
+        "matched_exact_clique": 516
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 902,
+        "all_cache": 894,
+        "selected_cache": 894,
+        "matched_exact_clique": 1030
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.5,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1802,
+        "all_cache": 1782,
+        "selected_cache": 1782,
+        "matched_exact_clique": 2058
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 480,
+        "all_cache": 480,
+        "selected_cache": 480,
+        "matched_exact_clique": 544
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 936,
+        "all_cache": 936,
+        "selected_cache": 936,
+        "matched_exact_clique": 1064
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1848,
+        "all_cache": 1848,
+        "selected_cache": 1848,
+        "matched_exact_clique": 2104
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 484,
+        "all_cache": 484,
+        "selected_cache": 484,
+        "matched_exact_clique": 548
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 956,
+        "all_cache": 956,
+        "selected_cache": 956,
+        "matched_exact_clique": 1084
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1900,
+        "all_cache": 1900,
+        "selected_cache": 1900,
+        "matched_exact_clique": 2156
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 478,
+        "all_cache": 476,
+        "selected_cache": 476,
+        "matched_exact_clique": 542
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 938,
+        "all_cache": 932,
+        "selected_cache": 932,
+        "matched_exact_clique": 1066
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1858,
+        "all_cache": 1844,
+        "selected_cache": 1844,
+        "matched_exact_clique": 2114
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 490,
+        "all_cache": 488,
+        "selected_cache": 488,
+        "matched_exact_clique": 554
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 970,
+        "all_cache": 962,
+        "selected_cache": 962,
+        "matched_exact_clique": 1098
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 0.75,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1930,
+        "all_cache": 1910,
+        "selected_cache": 1910,
+        "matched_exact_clique": 2186
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 1.0,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 510,
+        "all_cache": 508,
+        "selected_cache": 508,
+        "matched_exact_clique": 574
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 1.0,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 994,
+        "all_cache": 988,
+        "selected_cache": 988,
+        "matched_exact_clique": 1122
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 1.0,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1962,
+        "all_cache": 1948,
+        "selected_cache": 1948,
+        "matched_exact_clique": 2218
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 1.0,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 536,
+        "all_cache": 532,
+        "selected_cache": 532,
+        "matched_exact_clique": 600
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 1.0,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1054,
+        "all_cache": 1042,
+        "selected_cache": 1042,
+        "matched_exact_clique": 1182
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "pairs",
+      "coverage": 1.0,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 2090,
+        "all_cache": 2062,
+        "selected_cache": 2062,
+        "matched_exact_clique": 2346
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.53125,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 932,
+        "all_cache": 542,
+        "selected_cache": 542,
+        "matched_exact_clique": 996
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.53125,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1880,
+        "all_cache": 1052,
+        "selected_cache": 1052,
+        "matched_exact_clique": 2008
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.53125,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 3776,
+        "all_cache": 2072,
+        "selected_cache": 2072,
+        "matched_exact_clique": 4032
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.53125,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 980,
+        "all_cache": 544,
+        "selected_cache": 544,
+        "matched_exact_clique": 1044
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.53125,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1984,
+        "all_cache": 1056,
+        "selected_cache": 1056,
+        "matched_exact_clique": 2112
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.53125,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 3992,
+        "all_cache": 2080,
+        "selected_cache": 2080,
+        "matched_exact_clique": 4248
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.625,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 552,
+        "all_cache": 534,
+        "selected_cache": 534,
+        "matched_exact_clique": 616
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.625,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1080,
+        "all_cache": 1038,
+        "selected_cache": 1038,
+        "matched_exact_clique": 1208
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.625,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 2136,
+        "all_cache": 2046,
+        "selected_cache": 2046,
+        "matched_exact_clique": 2392
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.625,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 630,
+        "all_cache": 544,
+        "selected_cache": 544,
+        "matched_exact_clique": 694
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.625,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1244,
+        "all_cache": 1056,
+        "selected_cache": 1056,
+        "matched_exact_clique": 1372
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.625,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 2472,
+        "all_cache": 2080,
+        "selected_cache": 2080,
+        "matched_exact_clique": 2728
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.75,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 524,
+        "all_cache": 526,
+        "selected_cache": 526,
+        "matched_exact_clique": 588
+      },
+      "winner": "no_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.75,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1020,
+        "all_cache": 1022,
+        "selected_cache": 1022,
+        "matched_exact_clique": 1148
+      },
+      "winner": "no_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.75,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 2012,
+        "all_cache": 2014,
+        "selected_cache": 2014,
+        "matched_exact_clique": 2268
+      },
+      "winner": "no_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.75,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 568,
+        "all_cache": 538,
+        "selected_cache": 538,
+        "matched_exact_clique": 632
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.75,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1124,
+        "all_cache": 1046,
+        "selected_cache": 1046,
+        "matched_exact_clique": 1252
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.75,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 2236,
+        "all_cache": 2062,
+        "selected_cache": 2062,
+        "matched_exact_clique": 2492
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.875,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 516,
+        "all_cache": 518,
+        "selected_cache": 518,
+        "matched_exact_clique": 580
+      },
+      "winner": "no_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.875,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1004,
+        "all_cache": 1006,
+        "selected_cache": 1006,
+        "matched_exact_clique": 1132
+      },
+      "winner": "no_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.875,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 1980,
+        "all_cache": 1982,
+        "selected_cache": 1982,
+        "matched_exact_clique": 2236
+      },
+      "winner": "no_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.875,
+      "sweeps": 1,
+      "post": {
+        "no_cache": 548,
+        "all_cache": 530,
+        "selected_cache": 530,
+        "matched_exact_clique": 612
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.875,
+      "sweeps": 2,
+      "post": {
+        "no_cache": 1072,
+        "all_cache": 1036,
+        "selected_cache": 1036,
+        "matched_exact_clique": 1200
+      },
+      "winner": "all_cache"
+    },
+    {
+      "block": "redistribute",
+      "coverage": 0.875,
+      "sweeps": 4,
+      "post": {
+        "no_cache": 2120,
+        "all_cache": 2048,
+        "selected_cache": 2048,
+        "matched_exact_clique": 2376
+      },
+      "winner": "all_cache"
+    }
+  ],
+  "routing": {
+    "line": {
+      "program_gains": {
+        "q1": 7.0859480164080795,
+        "median": 9.538699500557993,
+        "q3": 12.834159556402899,
+        "minimum": 4.021120979726101,
+        "maximum": 19.43535700144238
+      },
+      "pre": 104876,
+      "final": 1781104,
+      "net": 1676228,
+      "raw_restore": 166149
+    },
+    "grid": {
+      "program_gains": {
+        "q1": 8.855450586111328,
+        "median": 12.759649444385548,
+        "q3": 16.458107173903436,
+        "minimum": 7.691752116254239,
+        "maximum": 19.63228766670364
+      },
+      "pre": 104738,
+      "final": 598736,
+      "net": 493998,
+      "raw_restore": 49896
+    }
+  },
+  "high_rank": [
+    {
+      "rank": 9,
+      "exact": false,
+      "bound": 42,
+      "native": {
+        "cx": 42,
+        "qubits": 10,
+        "depth": 116,
+        "two_qubit_depth": 40,
+        "rz": 86,
+        "total_1q": 130,
+        "parameterized_rz": 8
+      },
+      "post": {
+        "cx": 42,
+        "qubits": 10,
+        "depth": 114,
+        "two_qubit_depth": 40,
+        "rz": 80,
+        "total_1q": 124,
+        "parameterized_rz": 8
+      }
+    },
+    {
+      "rank": 9,
+      "exact": true,
+      "bound": 84,
+      "native": {
+        "cx": 84,
+        "qubits": 10,
+        "depth": 229,
+        "two_qubit_depth": 80,
+        "rz": 170,
+        "total_1q": 239,
+        "parameterized_rz": 16
+      },
+      "post": {
+        "cx": 84,
+        "qubits": 10,
+        "depth": 222,
+        "two_qubit_depth": 80,
+        "rz": 153,
+        "total_1q": 222,
+        "parameterized_rz": 16
+      }
+    },
+    {
+      "rank": 10,
+      "exact": false,
+      "bound": 48,
+      "native": {
+        "cx": 48,
+        "qubits": 11,
+        "depth": 128,
+        "two_qubit_depth": 44,
+        "rz": 98,
+        "total_1q": 148,
+        "parameterized_rz": 8
+      },
+      "post": {
+        "cx": 48,
+        "qubits": 11,
+        "depth": 126,
+        "two_qubit_depth": 44,
+        "rz": 91,
+        "total_1q": 141,
+        "parameterized_rz": 8
+      }
+    },
+    {
+      "rank": 10,
+      "exact": true,
+      "bound": 96,
+      "native": {
+        "cx": 96,
+        "qubits": 11,
+        "depth": 253,
+        "two_qubit_depth": 88,
+        "rz": 194,
+        "total_1q": 273,
+        "parameterized_rz": 16
+      },
+      "post": {
+        "cx": 96,
+        "qubits": 11,
+        "depth": 245,
+        "two_qubit_depth": 88,
+        "rz": 174,
+        "total_1q": 253,
+        "parameterized_rz": 16
+      }
+    },
+    {
+      "rank": 12,
+      "exact": false,
+      "bound": 60,
+      "native": {
+        "cx": 60,
+        "qubits": 13,
+        "depth": 156,
+        "two_qubit_depth": 54,
+        "rz": 122,
+        "total_1q": 184,
+        "parameterized_rz": 8
+      },
+      "post": {
+        "cx": 60,
+        "qubits": 13,
+        "depth": 153,
+        "two_qubit_depth": 54,
+        "rz": 113,
+        "total_1q": 175,
+        "parameterized_rz": 8
+      }
+    },
+    {
+      "rank": 12,
+      "exact": true,
+      "bound": 120,
+      "native": {
+        "cx": 120,
+        "qubits": 13,
+        "depth": 309,
+        "two_qubit_depth": 108,
+        "rz": 242,
+        "total_1q": 341,
+        "parameterized_rz": 16
+      },
+      "post": {
+        "cx": 120,
+        "qubits": 13,
+        "depth": 298,
+        "two_qubit_depth": 108,
+        "rz": 216,
+        "total_1q": 315,
+        "parameterized_rz": 16
+      }
+    },
+    {
+      "rank": 16,
+      "exact": false,
+      "bound": 84,
+      "native": {
+        "cx": 84,
+        "qubits": 17,
+        "depth": 212,
+        "two_qubit_depth": 74,
+        "rz": 170,
+        "total_1q": 256,
+        "parameterized_rz": 8
+      },
+      "post": {
+        "cx": 84,
+        "qubits": 17,
+        "depth": 207,
+        "two_qubit_depth": 74,
+        "rz": 157,
+        "total_1q": 243,
+        "parameterized_rz": 8
+      }
+    },
+    {
+      "rank": 16,
+      "exact": true,
+      "bound": 168,
+      "native": {
+        "cx": 168,
+        "qubits": 17,
+        "depth": 421,
+        "two_qubit_depth": 148,
+        "rz": 338,
+        "total_1q": 477,
+        "parameterized_rz": 16
+      },
+      "post": {
+        "cx": 168,
+        "qubits": 17,
+        "depth": 404,
+        "two_qubit_depth": 148,
+        "rz": 300,
+        "total_1q": 439,
+        "parameterized_rz": 16
+      }
+    }
+  ]
+}

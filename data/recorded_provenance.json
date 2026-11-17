@@ -1,0 +1,8 @@
+{
+  "comparison_sources": {
+    "evaluation.json": "75d55738d909a1eb58fa12bcdaf1fb51bf60e8129a8978eb8fc7dac2bcea13a7",
+    "review_statistics.json": "7cb5a11bf2c37303644583d1a499bcc765ce4eb6e3537a6dabd74369d33849ee",
+    "threshold.json": "162721f8081f485863248612a7f547698ca712406da06dcd40658782349a3b6a"
+  },
+  "scope": "Archived resources are selected fields of the original paired measurements, with immutable source digests."
+}

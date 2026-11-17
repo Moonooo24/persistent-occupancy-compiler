@@ -1,0 +1,399 @@
+{
+  "status": "all30_fresh_process_scaling_trials_complete",
+  "CPU": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+  "logical_cores": 12,
+  "python": "3.11.5",
+  "scope": "Fixed engineering examples, not additional random independent graph samples; no large-statevector validation claim",
+  "rows": [
+    {
+      "case_id": "K26_n16_engineering",
+      "n": 16,
+      "mode": "all",
+      "metrics": {
+        "cx": 336,
+        "qubits": 16,
+        "depth": 615,
+        "two_qubit_depth": 283,
+        "rz": 544,
+        "total_1q": 704,
+        "parameterized_rz": 168
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.0003293000045232475,
+        "selection_seconds": 1.200009137392044e-06,
+        "construction_seconds": 0.08850769995478913,
+        "native1_seconds": 0.13971070002298802,
+        "whole3_seconds": 0.03142750001279637,
+        "peak_RSS_bytes": 111042560
+      },
+      "minimum": {
+        "discovery_seconds": 0.00031860003946349025,
+        "selection_seconds": 1.0999501682817936e-06,
+        "construction_seconds": 0.07949410000583157,
+        "native1_seconds": 0.13414949999423698,
+        "whole3_seconds": 0.0313497000024654,
+        "peak_RSS_bytes": 110436352
+      },
+      "maximum": {
+        "discovery_seconds": 0.0003397000255063176,
+        "selection_seconds": 1.400010660290718e-06,
+        "construction_seconds": 0.16059230000246316,
+        "native1_seconds": 0.36523210001178086,
+        "whole3_seconds": 0.03214450000086799,
+        "peak_RSS_bytes": 114372608
+      }
+    },
+    {
+      "case_id": "K26_n16_engineering",
+      "n": 16,
+      "mode": "selected",
+      "metrics": {
+        "cx": 336,
+        "qubits": 16,
+        "depth": 615,
+        "two_qubit_depth": 283,
+        "rz": 544,
+        "total_1q": 704,
+        "parameterized_rz": 168
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.0003405000315979123,
+        "selection_seconds": 0.03435850003734231,
+        "construction_seconds": 0.07941700000083074,
+        "native1_seconds": 0.13921300001675263,
+        "whole3_seconds": 0.03095500002382323,
+        "peak_RSS_bytes": 111820800
+      },
+      "minimum": {
+        "discovery_seconds": 0.0003250000299885869,
+        "selection_seconds": 0.03393370000412688,
+        "construction_seconds": 0.0779892000136897,
+        "native1_seconds": 0.13857830001506954,
+        "whole3_seconds": 0.029558899987023324,
+        "peak_RSS_bytes": 110850048
+      },
+      "maximum": {
+        "discovery_seconds": 0.00035310001112520695,
+        "selection_seconds": 0.037137099949177355,
+        "construction_seconds": 0.08417589997407049,
+        "native1_seconds": 0.14403470000252128,
+        "whole3_seconds": 0.03506319998996332,
+        "peak_RSS_bytes": 115187712
+      }
+    },
+    {
+      "case_id": "K26_n32_engineering",
+      "n": 32,
+      "mode": "all",
+      "metrics": {
+        "cx": 844,
+        "qubits": 32,
+        "depth": 1535,
+        "two_qubit_depth": 678,
+        "rz": 1080,
+        "total_1q": 1384,
+        "parameterized_rz": 328
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.0014831000007689,
+        "selection_seconds": 7.00005330145359e-07,
+        "construction_seconds": 0.11916850000852719,
+        "native1_seconds": 0.16690880001988262,
+        "whole3_seconds": 0.0581242999760434,
+        "peak_RSS_bytes": 114434048
+      },
+      "minimum": {
+        "discovery_seconds": 0.001476900011766702,
+        "selection_seconds": 6.00004568696022e-07,
+        "construction_seconds": 0.1190933000179939,
+        "native1_seconds": 0.1642920000012964,
+        "whole3_seconds": 0.05386399995768443,
+        "peak_RSS_bytes": 114278400
+      },
+      "maximum": {
+        "discovery_seconds": 0.002310900017619133,
+        "selection_seconds": 8.00006091594696e-07,
+        "construction_seconds": 0.11989270005142316,
+        "native1_seconds": 0.19353280001087114,
+        "whole3_seconds": 0.05895330000203103,
+        "peak_RSS_bytes": 121425920
+      }
+    },
+    {
+      "case_id": "K26_n32_engineering",
+      "n": 32,
+      "mode": "selected",
+      "metrics": {
+        "cx": 844,
+        "qubits": 32,
+        "depth": 1535,
+        "two_qubit_depth": 678,
+        "rz": 1080,
+        "total_1q": 1384,
+        "parameterized_rz": 328
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.0014956999802961946,
+        "selection_seconds": 0.0682029000017792,
+        "construction_seconds": 0.09746600000653416,
+        "native1_seconds": 0.16723190003540367,
+        "whole3_seconds": 0.05772959999740124,
+        "peak_RSS_bytes": 114270208
+      },
+      "minimum": {
+        "discovery_seconds": 0.0014608000055886805,
+        "selection_seconds": 0.06664959999034181,
+        "construction_seconds": 0.09528770000906661,
+        "native1_seconds": 0.16136630001710728,
+        "whole3_seconds": 0.05620999995153397,
+        "peak_RSS_bytes": 114085888
+      },
+      "maximum": {
+        "discovery_seconds": 0.0016728000482544303,
+        "selection_seconds": 0.0753578000003472,
+        "construction_seconds": 0.1055954999756068,
+        "native1_seconds": 0.17041869997046888,
+        "whole3_seconds": 0.06099359999643639,
+        "peak_RSS_bytes": 121839616
+      }
+    },
+    {
+      "case_id": "K26_n64_engineering",
+      "n": 64,
+      "mode": "all",
+      "metrics": {
+        "cx": 1852,
+        "qubits": 64,
+        "depth": 3398,
+        "two_qubit_depth": 1502,
+        "rz": 2152,
+        "total_1q": 2744,
+        "parameterized_rz": 648
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.00284909998299554,
+        "selection_seconds": 1.200009137392044e-06,
+        "construction_seconds": 0.19022049999330193,
+        "native1_seconds": 0.24740279995603487,
+        "whole3_seconds": 0.11131240002578124,
+        "peak_RSS_bytes": 120901632
+      },
+      "minimum": {
+        "discovery_seconds": 0.00264030002290383,
+        "selection_seconds": 1.200009137392044e-06,
+        "construction_seconds": 0.186314599995967,
+        "native1_seconds": 0.23784290003823116,
+        "whole3_seconds": 0.11075660004280508,
+        "peak_RSS_bytes": 120016896
+      },
+      "maximum": {
+        "discovery_seconds": 0.0032671000226400793,
+        "selection_seconds": 1.500011421740055e-06,
+        "construction_seconds": 0.20048929995391518,
+        "native1_seconds": 0.2511604000465013,
+        "whole3_seconds": 0.11342270002933219,
+        "peak_RSS_bytes": 133644288
+      }
+    },
+    {
+      "case_id": "K26_n64_engineering",
+      "n": 64,
+      "mode": "selected",
+      "metrics": {
+        "cx": 1852,
+        "qubits": 64,
+        "depth": 3398,
+        "two_qubit_depth": 1502,
+        "rz": 2152,
+        "total_1q": 2744,
+        "parameterized_rz": 648
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.0028362999437376857,
+        "selection_seconds": 0.17341819999273866,
+        "construction_seconds": 0.18237079994287342,
+        "native1_seconds": 0.25158849998842925,
+        "whole3_seconds": 0.1155678000068292,
+        "peak_RSS_bytes": 120975360
+      },
+      "minimum": {
+        "discovery_seconds": 0.0026977999950759113,
+        "selection_seconds": 0.16589630005182698,
+        "construction_seconds": 0.1822762999800034,
+        "native1_seconds": 0.24568120000185445,
+        "whole3_seconds": 0.10922019998542964,
+        "peak_RSS_bytes": 120295424
+      },
+      "maximum": {
+        "discovery_seconds": 0.003056200046557933,
+        "selection_seconds": 0.20643690001452342,
+        "construction_seconds": 0.19502049998845905,
+        "native1_seconds": 0.2932607000111602,
+        "whole3_seconds": 0.12482249998720363,
+        "peak_RSS_bytes": 132456448
+      }
+    },
+    {
+      "case_id": "K26_n128_engineering",
+      "n": 128,
+      "mode": "all",
+      "metrics": {
+        "cx": 3868,
+        "qubits": 128,
+        "depth": 7126,
+        "two_qubit_depth": 3150,
+        "rz": 4296,
+        "total_1q": 5464,
+        "parameterized_rz": 1288
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.012355199956800789,
+        "selection_seconds": 1.600012183189392e-06,
+        "construction_seconds": 0.5178685000282712,
+        "native1_seconds": 0.4837231999845244,
+        "whole3_seconds": 0.23283140000421554,
+        "peak_RSS_bytes": 134275072
+      },
+      "minimum": {
+        "discovery_seconds": 0.010210999986156821,
+        "selection_seconds": 1.100008375942707e-06,
+        "construction_seconds": 0.5129245999851264,
+        "native1_seconds": 0.4757531000068411,
+        "whole3_seconds": 0.22500049998052418,
+        "peak_RSS_bytes": 131555328
+      },
+      "maximum": {
+        "discovery_seconds": 0.02214690000982955,
+        "selection_seconds": 1.700012944638729e-06,
+        "construction_seconds": 0.562026200001128,
+        "native1_seconds": 0.5184731000335887,
+        "whole3_seconds": 0.24396369996247813,
+        "peak_RSS_bytes": 157827072
+      }
+    },
+    {
+      "case_id": "K26_n128_engineering",
+      "n": 128,
+      "mode": "selected",
+      "metrics": {
+        "cx": 3868,
+        "qubits": 128,
+        "depth": 7126,
+        "two_qubit_depth": 3150,
+        "rz": 4296,
+        "total_1q": 5464,
+        "parameterized_rz": 1288
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.009874499985016882,
+        "selection_seconds": 0.5591668999986723,
+        "construction_seconds": 0.5158556999522261,
+        "native1_seconds": 0.4853546000085771,
+        "whole3_seconds": 0.22845009999582544,
+        "peak_RSS_bytes": 136044544
+      },
+      "minimum": {
+        "discovery_seconds": 0.009810100018512458,
+        "selection_seconds": 0.5512483000056818,
+        "construction_seconds": 0.4891242000157945,
+        "native1_seconds": 0.4784844000241719,
+        "whole3_seconds": 0.22066890000132844,
+        "peak_RSS_bytes": 134975488
+      },
+      "maximum": {
+        "discovery_seconds": 0.010311199992429465,
+        "selection_seconds": 0.563804599980358,
+        "construction_seconds": 0.587026999972295,
+        "native1_seconds": 0.5074980000499636,
+        "whole3_seconds": 0.23034319997532293,
+        "peak_RSS_bytes": 156438528
+      }
+    },
+    {
+      "case_id": "K26_n256_engineering",
+      "n": 256,
+      "mode": "all",
+      "metrics": {
+        "cx": 7900,
+        "qubits": 256,
+        "depth": 14582,
+        "two_qubit_depth": 6446,
+        "rz": 8584,
+        "total_1q": 10904,
+        "parameterized_rz": 2568
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.041102000046521425,
+        "selection_seconds": 1.600012183189392e-06,
+        "construction_seconds": 2.5695736999623477,
+        "native1_seconds": 1.7623461000039242,
+        "whole3_seconds": 0.4464581999927759,
+        "peak_RSS_bytes": 170782720
+      },
+      "minimum": {
+        "discovery_seconds": 0.039955099986400455,
+        "selection_seconds": 1.500011421740055e-06,
+        "construction_seconds": 2.4337968000327237,
+        "native1_seconds": 1.7338230999885127,
+        "whole3_seconds": 0.4401192999794148,
+        "peak_RSS_bytes": 170516480
+      },
+      "maximum": {
+        "discovery_seconds": 0.05824809998739511,
+        "selection_seconds": 2.800021320581436e-06,
+        "construction_seconds": 2.5733862000051886,
+        "native1_seconds": 1.780847200017888,
+        "whole3_seconds": 0.45750600000610575,
+        "peak_RSS_bytes": 208805888
+      }
+    },
+    {
+      "case_id": "K26_n256_engineering",
+      "n": 256,
+      "mode": "selected",
+      "metrics": {
+        "cx": 7900,
+        "qubits": 256,
+        "depth": 14582,
+        "two_qubit_depth": 6446,
+        "rz": 8584,
+        "total_1q": 10904,
+        "parameterized_rz": 2568
+      },
+      "metrics_identical": true,
+      "median": {
+        "discovery_seconds": 0.04239020001841709,
+        "selection_seconds": 2.225984500022605,
+        "construction_seconds": 2.4551460000220686,
+        "native1_seconds": 1.7604902999592014,
+        "whole3_seconds": 0.5098986999946646,
+        "peak_RSS_bytes": 172662784
+      },
+      "minimum": {
+        "discovery_seconds": 0.03987139998935163,
+        "selection_seconds": 2.2105164999957196,
+        "construction_seconds": 2.397438499960117,
+        "native1_seconds": 1.7461952000157908,
+        "whole3_seconds": 0.492464899958577,
+        "peak_RSS_bytes": 172343296
+      },
+      "maximum": {
+        "discovery_seconds": 0.060848799999803305,
+        "selection_seconds": 2.562136799970176,
+        "construction_seconds": 2.489106199995149,
+        "native1_seconds": 1.862674199976027,
+        "whole3_seconds": 0.5211419999832287,
+        "peak_RSS_bytes": 212967424
+      }
+    }
+  ]
+}

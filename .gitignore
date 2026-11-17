@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+results/
+tmp/
+paper/
+protocols/public_graphs_v1/parser_r1/*.json

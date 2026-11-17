@@ -1,0 +1,14 @@
+{
+  "target": "native",
+  "metrics": {
+    "cx": 30,
+    "qubits": 7,
+    "depth": 67,
+    "two_qubit_depth": 22,
+    "rz": 82,
+    "total_1q": 110,
+    "parameterized_rz": 34
+  },
+  "max_complex_error": 8.236455723193616e-14,
+  "candidate_count": 3
+}

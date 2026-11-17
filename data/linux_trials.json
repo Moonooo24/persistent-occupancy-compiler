@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "raw_text": "{\"n\": 32, \"status\": \"passed\", \"seconds\": 0.4651688189478591, \"CPU_seconds\": 0.4649774739999999, \"peak_RSS_bytes\": 120459264, \"metrics\": {\"cx\": 974, \"qubits\": 32, \"depth\": 1095, \"two_qubit_depth\": 453, \"rz\": 1424, \"total_1q\": 1744, \"parameterized_rz\": 528}}"
+    },
+    {
+      "raw_text": "{\"n\": 32, \"status\": \"passed\", \"seconds\": 0.48780969507060945, \"CPU_seconds\": 0.4877822489999999, \"peak_RSS_bytes\": 120541184, \"metrics\": {\"cx\": 974, \"qubits\": 32, \"depth\": 1095, \"two_qubit_depth\": 453, \"rz\": 1424, \"total_1q\": 1744, \"parameterized_rz\": 528}}"
+    },
+    {
+      "raw_text": "{\"n\": 32, \"status\": \"passed\", \"seconds\": 0.47020193096250296, \"CPU_seconds\": 0.4699517590000002, \"peak_RSS_bytes\": 120467456, \"metrics\": {\"cx\": 974, \"qubits\": 32, \"depth\": 1095, \"two_qubit_depth\": 453, \"rz\": 1424, \"total_1q\": 1744, \"parameterized_rz\": 528}}"
+    },
+    {
+      "raw_text": "{\"n\": 64, \"status\": \"passed\", \"seconds\": 1.2326533129671589, \"CPU_seconds\": 1.231745098, \"peak_RSS_bytes\": 127823872, \"metrics\": {\"cx\": 1956, \"qubits\": 64, \"depth\": 1781, \"two_qubit_depth\": 737, \"rz\": 2848, \"total_1q\": 3480, \"parameterized_rz\": 1056}}"
+    },
+    {
+      "raw_text": "{\"n\": 64, \"status\": \"passed\", \"seconds\": 1.2723445050651208, \"CPU_seconds\": 1.272890762, \"peak_RSS_bytes\": 128851968, \"metrics\": {\"cx\": 1956, \"qubits\": 64, \"depth\": 1781, \"two_qubit_depth\": 737, \"rz\": 2848, \"total_1q\": 3480, \"parameterized_rz\": 1056}}"
+    },
+    {
+      "raw_text": "{\"n\": 64, \"status\": \"passed\", \"seconds\": 1.2609677800210193, \"CPU_seconds\": 1.2608550189999999, \"peak_RSS_bytes\": 128208896, \"metrics\": {\"cx\": 1956, \"qubits\": 64, \"depth\": 1781, \"two_qubit_depth\": 737, \"rz\": 2848, \"total_1q\": 3480, \"parameterized_rz\": 1056}}"
+    },
+    {
+      "raw_text": "{\"n\": 128, \"status\": \"passed\", \"seconds\": 4.346595783019438, \"CPU_seconds\": 4.345746438, \"peak_RSS_bytes\": 150364160, \"metrics\": {\"cx\": 3912, \"qubits\": 128, \"depth\": 2034, \"two_qubit_depth\": 841, \"rz\": 5696, \"total_1q\": 7012, \"parameterized_rz\": 2112}}"
+    },
+    {
+      "raw_text": "{\"n\": 128, \"status\": \"passed\", \"seconds\": 4.350079946103506, \"CPU_seconds\": 4.3485953760000005, \"peak_RSS_bytes\": 154796032, \"metrics\": {\"cx\": 3912, \"qubits\": 128, \"depth\": 2034, \"two_qubit_depth\": 841, \"rz\": 5696, \"total_1q\": 7012, \"parameterized_rz\": 2112}}"
+    },
+    {
+      "raw_text": "{\"n\": 128, \"status\": \"passed\", \"seconds\": 4.3487812370294705, \"CPU_seconds\": 4.347930599, \"peak_RSS_bytes\": 154648576, \"metrics\": {\"cx\": 3912, \"qubits\": 128, \"depth\": 2034, \"two_qubit_depth\": 841, \"rz\": 5696, \"total_1q\": 7012, \"parameterized_rz\": 2112}}"
+    },
+    {
+      "raw_text": "{\"n\": 256, \"status\": \"passed\", \"seconds\": 19.62378185603302, \"CPU_seconds\": 19.622361161, \"peak_RSS_bytes\": 204550144, \"metrics\": {\"cx\": 7834, \"qubits\": 256, \"depth\": 2239, \"two_qubit_depth\": 929, \"rz\": 11392, \"total_1q\": 13996, \"parameterized_rz\": 4224}}"
+    },
+    {
+      "raw_text": "{\"n\": 256, \"status\": \"passed\", \"seconds\": 20.201498204958625, \"CPU_seconds\": 20.19912484, \"peak_RSS_bytes\": 203575296, \"metrics\": {\"cx\": 7834, \"qubits\": 256, \"depth\": 2239, \"two_qubit_depth\": 929, \"rz\": 11392, \"total_1q\": 13996, \"parameterized_rz\": 4224}}"
+    },
+    {
+      "raw_text": "{\"n\": 256, \"status\": \"passed\", \"seconds\": 20.035085299052298, \"CPU_seconds\": 20.032638257, \"peak_RSS_bytes\": 204972032, \"metrics\": {\"cx\": 7834, \"qubits\": 256, \"depth\": 2239, \"two_qubit_depth\": 929, \"rz\": 11392, \"total_1q\": 13996, \"parameterized_rz\": 4224}}"
+    }
+  ]
+}

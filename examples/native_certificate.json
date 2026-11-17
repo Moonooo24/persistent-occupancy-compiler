@@ -1,0 +1,681 @@
+{
+  "selected_route": "all_cache",
+  "selected_proof": {
+    "schema": "journal_auto_reuse_v2_phase_safe",
+    "n": 7,
+    "discovered_cliques": [
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ]
+    ],
+    "quotient_edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "automatic_partition": true,
+    "cached_clique_indices": [
+      0,
+      2
+    ],
+    "encoding_CX": [
+      [
+        1,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "actual_inverse_encoding_CX": [
+      [
+        4,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "sweeps": 2,
+    "sweep_orders": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "cost_layers": 1,
+    "cost_completion": "clique",
+    "weights": [
+      "3",
+      "5",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "cost_certificates": [
+      {
+        "mode": "same_original_coordinate_clique_parity_completion",
+        "cliques": [
+          {
+            "clique": [
+              0,
+              1
+            ],
+            "cached": true,
+            "anchor_weight": "3",
+            "leaf_coefficients": [
+              [
+                1,
+                "2"
+              ]
+            ],
+            "parity_compute_CX": []
+          },
+          {
+            "clique": [
+              2
+            ],
+            "cached": false,
+            "anchor_weight": "1",
+            "leaf_coefficients": [],
+            "parity_compute_CX": []
+          },
+          {
+            "clique": [
+              3,
+              4
+            ],
+            "cached": true,
+            "anchor_weight": "1",
+            "leaf_coefficients": [
+              [
+                4,
+                "0"
+              ]
+            ],
+            "parity_compute_CX": []
+          },
+          {
+            "clique": [
+              5
+            ],
+            "cached": false,
+            "anchor_weight": "1",
+            "leaf_coefficients": [],
+            "parity_compute_CX": []
+          },
+          {
+            "clique": [
+              6
+            ],
+            "cached": false,
+            "anchor_weight": "1",
+            "leaf_coefficients": [],
+            "parity_compute_CX": []
+          }
+        ],
+        "exact_rational_weights": [
+          "3",
+          "5",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "cost_is_negative_weighted_occupancy": true,
+        "affine_phase_certificate": {
+          "affine": true,
+          "constant": 0.0,
+          "constant_extraction_absolute_error": "0",
+          "coefficients": [
+            {
+              "parameter": "gamma0",
+              "UUID": "838bc8de-61b8-432d-83e1-08a9b015baf3",
+              "coefficient": 4.5,
+              "extraction_absolute_error": "0"
+            }
+          ],
+          "removed_only_exact_zero_derivatives": true,
+          "parameter_binding_used": false,
+          "error_scope": "Phase representation: Econstant + sum Eparameter*abs(parameter), plus final floating evaluation/modulo; no nontrivial uniform small error claimed on unbounded angle space"
+        }
+      }
+    ],
+    "macros": [
+      {
+        "target": 0,
+        "original_neighbors": [
+          1,
+          2
+        ],
+        "blocks": [
+          [
+            1,
+            2
+          ]
+        ],
+        "rank": 1,
+        "prepare_CX": [
+          [
+            1,
+            0
+          ]
+        ],
+        "actual_inverse_prepare_CX": [
+          [
+            1,
+            0
+          ]
+        ],
+        "GF2_rows": [
+          1,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          1,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "factors": [
+          6
+        ],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "open_Walsh",
+        "path": [
+          0,
+          6
+        ],
+        "end_mask": 6,
+        "end_original": 6,
+        "output_phase_fixed_on_Feas": true
+      },
+      {
+        "target": 1,
+        "original_neighbors": [
+          0,
+          2
+        ],
+        "blocks": [
+          [
+            0,
+            2
+          ]
+        ],
+        "rank": 1,
+        "prepare_CX": [
+          [
+            1,
+            0
+          ]
+        ],
+        "actual_inverse_prepare_CX": [
+          [
+            1,
+            0
+          ]
+        ],
+        "GF2_rows": [
+          1,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          1,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "factors": [
+          5
+        ],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "open_Walsh",
+        "path": [
+          0,
+          5
+        ],
+        "end_mask": 5,
+        "end_original": 5,
+        "output_phase_fixed_on_Feas": true
+      },
+      {
+        "target": 2,
+        "original_neighbors": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "blocks": [
+          [
+            0,
+            1
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        "rank": 2,
+        "prepare_CX": [],
+        "actual_inverse_prepare_CX": [],
+        "GF2_rows": [
+          3,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          3,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "factors": [
+          1,
+          8
+        ],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "open_Walsh",
+        "path": [
+          0,
+          1,
+          9,
+          8
+        ],
+        "end_mask": 8,
+        "end_original": 24,
+        "output_phase_fixed_on_Feas": true
+      },
+      {
+        "target": 3,
+        "original_neighbors": [
+          2,
+          4
+        ],
+        "blocks": [
+          [
+            2,
+            4
+          ]
+        ],
+        "rank": 1,
+        "prepare_CX": [
+          [
+            4,
+            3
+          ]
+        ],
+        "actual_inverse_prepare_CX": [
+          [
+            4,
+            3
+          ]
+        ],
+        "GF2_rows": [
+          3,
+          2,
+          4,
+          8,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          3,
+          2,
+          4,
+          8,
+          16,
+          32,
+          64
+        ],
+        "factors": [
+          20
+        ],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "open_Walsh",
+        "path": [
+          0,
+          20
+        ],
+        "end_mask": 20,
+        "end_original": 20,
+        "output_phase_fixed_on_Feas": true
+      },
+      {
+        "target": 4,
+        "original_neighbors": [
+          2,
+          3
+        ],
+        "blocks": [
+          [
+            2,
+            3
+          ]
+        ],
+        "rank": 1,
+        "prepare_CX": [
+          [
+            4,
+            3
+          ]
+        ],
+        "actual_inverse_prepare_CX": [
+          [
+            4,
+            3
+          ]
+        ],
+        "GF2_rows": [
+          3,
+          2,
+          4,
+          8,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          3,
+          2,
+          4,
+          8,
+          16,
+          32,
+          64
+        ],
+        "factors": [
+          12
+        ],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "open_Walsh",
+        "path": [
+          0,
+          12
+        ],
+        "end_mask": 12,
+        "end_original": 12,
+        "output_phase_fixed_on_Feas": true
+      },
+      {
+        "target": 5,
+        "original_neighbors": [],
+        "blocks": [],
+        "rank": 0,
+        "prepare_CX": [],
+        "actual_inverse_prepare_CX": [],
+        "GF2_rows": [
+          3,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          3,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "factors": [],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "compressed_care_query",
+        "parity_CX": [],
+        "actual_inverse_parity_CX": [],
+        "pivots": [],
+        "kernel": {
+          "kind": "uncontrolled",
+          "degree": 0
+        },
+        "highrank_Walsh_terms_constructed": 0
+      },
+      {
+        "target": 6,
+        "original_neighbors": [],
+        "blocks": [],
+        "rank": 0,
+        "prepare_CX": [],
+        "actual_inverse_prepare_CX": [],
+        "GF2_rows": [
+          3,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "GF2_inverse": [
+          3,
+          2,
+          4,
+          24,
+          16,
+          32,
+          64
+        ],
+        "factors": [],
+        "target_row_column_isolated": true,
+        "disjoint_factors": true,
+        "Feas_to_query_care": true,
+        "input_zero_assumed": false,
+        "query": "compressed_care_query",
+        "parity_CX": [],
+        "actual_inverse_parity_CX": [],
+        "pivots": [],
+        "kernel": {
+          "kind": "uncontrolled",
+          "degree": 0
+        },
+        "highrank_Walsh_terms_constructed": 0
+      }
+    ],
+    "zero_added_work_qubits": true,
+    "physical_qubits": 7,
+    "exact_complex_semantics": "Canonical prescribed product on original Feas, including global phase; not a global-canonical claim",
+    "structural_all_Feas_contract": true,
+    "enumerated_states": 0,
+    "lowrank_rule": "rank<=3 open Walsh, rank>=4 frozen care kernel with exact fallback",
+    "route": "phi",
+    "raw_metrics": {
+      "cx": 42,
+      "qubits": 7,
+      "depth": 67,
+      "two_qubit_depth": 34,
+      "rz": 30,
+      "total_1q": 54,
+      "parameterized_rz": 30
+    }
+  },
+  "source_cache_decision": {
+    "objective": "source CX count",
+    "baseline_proxy": 32,
+    "selected_clique_indices": [],
+    "final_proxy": 32,
+    "marginal_terms": [
+      {
+        "clique_index": 0,
+        "clique": [
+          0,
+          1
+        ],
+        "delta": 4
+      },
+      {
+        "clique_index": 2,
+        "clique": [
+          3,
+          4
+        ],
+        "delta": 6
+      }
+    ],
+    "affine_sum_verified": true,
+    "exact_optimum_scope": "All subsets of discovered nontrivial modules, fixed anchors/block order/query recipe, before native cancellation and routing",
+    "zero_marginal_tie": "leave uncached",
+    "not_native_or_routed_optimality": true,
+    "no_external_test_labels_used": true
+  },
+  "measured_candidates": [
+    {
+      "name": "no_cache",
+      "metrics": {
+        "cx": 32,
+        "qubits": 7,
+        "depth": 71,
+        "two_qubit_depth": 26,
+        "rz": 82,
+        "total_1q": 110,
+        "parameterized_rz": 34
+      },
+      "logical_metrics": {
+        "cx": 32,
+        "qubits": 7,
+        "depth": 71,
+        "two_qubit_depth": 26,
+        "rz": 82,
+        "total_1q": 110,
+        "parameterized_rz": 34
+      },
+      "alias_of": null
+    },
+    {
+      "name": "all_cache",
+      "metrics": {
+        "cx": 30,
+        "qubits": 7,
+        "depth": 67,
+        "two_qubit_depth": 22,
+        "rz": 82,
+        "total_1q": 110,
+        "parameterized_rz": 34
+      },
+      "logical_metrics": {
+        "cx": 30,
+        "qubits": 7,
+        "depth": 67,
+        "two_qubit_depth": 22,
+        "rz": 82,
+        "total_1q": 110,
+        "parameterized_rz": 34
+      },
+      "alias_of": null
+    },
+    {
+      "name": "selected_cache",
+      "metrics": {
+        "cx": 32,
+        "qubits": 7,
+        "depth": 71,
+        "two_qubit_depth": 26,
+        "rz": 82,
+        "total_1q": 110,
+        "parameterized_rz": 34
+      },
+      "logical_metrics": {
+        "cx": 32,
+        "qubits": 7,
+        "depth": 71,
+        "two_qubit_depth": 26,
+        "rz": 82,
+        "total_1q": 110,
+        "parameterized_rz": 34
+      },
+      "alias_of": "no_cache"
+    }
+  ],
+  "compilation_seconds": 0.7460892999988573,
+  "target_proxy": null,
+  "distinct_cache_variants": 2,
+  "duplicate_candidates_not_independent": true,
+  "actual_topology_routing_performed": false,
+  "routing_seed": 20261109,
+  "no_seed_selection": true,
+  "selected_routing_certificate": null,
+  "scope": "Exact prescribed dynamics on original Feas and physical I/O"
+}

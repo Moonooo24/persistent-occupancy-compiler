@@ -1,0 +1,294 @@
+{
+  "scope": "Curated release lock with the original experiment-lock digest",
+  "archived_experiment_lock_sha256": "7fcd71b2b0aaabb0b01106c762de74149bf749068674b755b27f1b2353330bc4",
+  "code_files": [
+    {
+      "file": "code/auto_reuse.py",
+      "sha256": "06f39c26a09f4f2f52e42d3290394d9cb644be05ae474fa8d2b022d6ca215fb7"
+    },
+    {
+      "file": "code/auto_reuse_v2.py",
+      "sha256": "6ac0320737c0590e5fef1c87db7189911c11949b19a5e602874e599bab964940"
+    },
+    {
+      "file": "code/baselines_v2.py",
+      "sha256": "255902eac151ea51293443424f504a6091bd8bad7a3314866f06f24f134cd543"
+    },
+    {
+      "file": "code/draw_combined_en.py",
+      "sha256": "83e9516cb77c1c81c576ec260f84388af6a2a158d5bf94d420bc7f5102534f97"
+    },
+    {
+      "file": "code/draw_results_en.py",
+      "sha256": "02875860f5ab68067fea292b47b3d11bf720a6b7127b54b458a56a7d96ee56df"
+    },
+    {
+      "file": "code/end_to_end_profile_worker_v2.py",
+      "sha256": "b8b07ef617a04f81c41f983e2988e9a55f4f15c20adefe3e61c037c651fffab0"
+    },
+    {
+      "file": "code/experiments_v2.py",
+      "sha256": "0706f41c00cab8e0449d7f9d1bb2b344780ef5c66b23e0ee4387e25b5a135e12"
+    },
+    {
+      "file": "code/figure_style.py",
+      "sha256": "d6ce58dc995fddd8c50e3ffb0eab71f2971833b9993df7bca05c59989fdd8bc7"
+    },
+    {
+      "file": "code/generic_query_v2.py",
+      "sha256": "248e485a4bd1c6994c8f4fde4d40fde09a538d029c077cde42b7a7f37fd3556c"
+    },
+    {
+      "file": "code/journal_api_v3.py",
+      "sha256": "05d7b64b5992cc4e97562af22732fef051f67d9924eb578e51c3fccdd9097144"
+    },
+    {
+      "file": "code/level1.py",
+      "sha256": "712a2ada5cf7b8c34f34a072d4c023d32669aeecbe2b2440f0b769d473e91333"
+    },
+    {
+      "file": "code/matched_reference_v2.py",
+      "sha256": "bd3397af659313608707fb15c71866939b92b3bb2ad80dd1b666492951be3f74"
+    },
+    {
+      "file": "code/phase_safe.py",
+      "sha256": "c3c2ef501f22bdc219d292be7c97ab0cee2eabea5959cf3ffc8a05ec1971cf6e"
+    },
+    {
+      "file": "code/prepare_public_inputs.py",
+      "sha256": "6c4d49438ff80e5145c68facfb7b5dba03cf521c1930be6fd6fa22d93957f794"
+    },
+    {
+      "file": "code/query_sharing_v2.py",
+      "sha256": "270ad152e7807f30da2d43ec14f27a77b91e7a028ea9c45dfca621b9717bc033"
+    },
+    {
+      "file": "code/routing_v2.py",
+      "sha256": "faa88eaadb521208083766aecf87960bda81d4a3a7f2f7e88254207e5357dc74"
+    },
+    {
+      "file": "code/run_artifact.py",
+      "sha256": "ea7b3c34267a3104e0640af3f37d2034dab14f2a0965fc2303a714f954c04f24"
+    },
+    {
+      "file": "code/runtime.py",
+      "sha256": "4f95486b37b64a40ff14bf84c5111e2e0ef2af5e98269d6815ef4571d851fc9f"
+    },
+    {
+      "file": "code/scaling_worker_v2.py",
+      "sha256": "b8ce9cc77aed33228f395e4a801df72d08c06d531ad45be57ee878b507a86e9b"
+    },
+    {
+      "file": "code/smoke.py",
+      "sha256": "6bed603c193a14e8a71420c64f0d30148ff116c5b3703e80a538c2a33476d0f4"
+    },
+    {
+      "file": "code/summarize_results.py",
+      "sha256": "0aa466059f4d67b2884225178940b57d3654762d85dadfd2a9393c29c4256d35"
+    },
+    {
+      "file": "code/verify_auto.py",
+      "sha256": "1e30ea54faa6fdfda9858a49ce541a97125a5a21a37525655b4b282f6c927ab1"
+    },
+    {
+      "file": "code/verify_explicit_kernel_recipes_v2.py",
+      "sha256": "8d2e9aca766cd21136cd7b86ca4bfa60f30fce947731204a5d63dce157604afb"
+    },
+    {
+      "file": "code/verify_v2_phase_generic.py",
+      "sha256": "d0193a02479f8ffb980e344fab1e7ec842a0349e08bf6167d7208a5b05e86052"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/lossless_qpy_io.py",
+      "sha256": "43c7bb6e3f0bd40580391e8471398ae7dac2ddd1512aa820125dbba5059e7e07"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_CE_module.py",
+      "sha256": "72596242fea34c4f3fcaeee6bcc046d89e5c203d9dae3cfeba3ef324741d17a7"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_ch_form.py",
+      "sha256": "3448770ff20223abc8c8e359432bd9ca5e81bf4766aea76f210c6633ed796bdc"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_ch_scalar.py",
+      "sha256": "9c5631a26cbc2821e55e1bdfb57c16f939c997a1de9d0e4f5ea99744a7920bd8"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_core.py",
+      "sha256": "c345d5fb9b9fbd8d2becb04351219c0ddf752ceea4794094d00cf983af051102"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_even_sweep_certificate.py",
+      "sha256": "6fb7069d37319ce772ffe8b6cc594416f2ccf716e4b7789191f5caae7c045863"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_frame_core.py",
+      "sha256": "748101f8af24ddb2e6f419bc4464dbc9ff3894b45e89f443e1358db3ca8d9059"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_native_bridge.py",
+      "sha256": "d3715f3113ad4e696f0a79bbf4618fdb5447d5b6aaa64fcd0ffb2812fe2cd0bc"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_numeric_policy.py",
+      "sha256": "094f9a8835b5f1fb1d292c7d83ad5c6054b94b516a21ef8749339d7f5ffd405e"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_manifest_v5.json",
+      "sha256": "94992de8a92f8b9000ac41ddc55322e93222419e7f1acc91e84bb63081159565"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d1.qpy",
+      "sha256": "6ef75938b136ae67828ab4d8eb9ef467b080068e7efaba6935c502d7e3d60cd6"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d2.qpy",
+      "sha256": "33173e576195168cb1c0a48ab69cb7c4584556d3b5a8a0f50e4a5ef758e4b1be"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d3.qpy",
+      "sha256": "35a1b3cd752e08ab123ab146eb35972d38437a3a96e4b431e4799418bc158ae2"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d4.qpy",
+      "sha256": "ff8b4e9bb0ffd5b0026e0df60c512ca82cece905494a8069e85af309fe08fdbf"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d5.qpy",
+      "sha256": "6601a2034eb224ad50f8734083fe9fc451544581041c7fbc401ea5b97db58436"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d6.qpy",
+      "sha256": "4650f5e5e862852f02e71339c15d70edf383780e860dcb3aa3bafbced37bc440"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d7.qpy",
+      "sha256": "e1216c66ca36f7c7130744946650120edfc407a7670d6df78a39fa591adc4fdb"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d8.qpy",
+      "sha256": "516fda34f043ccf3a8d3c0cb85decd32d8fe4b44884d4ce8a098214dd034926b"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d1.qpy",
+      "sha256": "d8415c1eb5305919e36d9d585a5053548fe112053f2f6a9f570066f866ed78af"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d2.qpy",
+      "sha256": "a8c7ad9517bfd522aa467220eb75fef9d6d02debdb8872cf53973cc5a3434dde"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d3.qpy",
+      "sha256": "39bfe24a0e8064600df89176f6dd91dd11cd10f7223656c4e4305b3d8209a7e9"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d4.qpy",
+      "sha256": "94686b0841e92ff4ec9d8a46534e0a41b63c84946e4da3ca98cfa8f54e945119"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d5.qpy",
+      "sha256": "bc5d439539844885b7da82683997073721b1effe358d57b867380b16f86cdfc0"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d6.qpy",
+      "sha256": "5ceb68de0cda947b6075329af511e671bf202c24416b4307ce90c37a0502a8fc"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d7.qpy",
+      "sha256": "ba1a920ce3460d6acc76b3a2a2d47704feeb1b654e056557d1035cce50848f27"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/qibo_vale_symbolic_rx_d8.qpy",
+      "sha256": "cf85d8516aa232a709a5d384e887c417376c22f85b48cb8803b92e108bec8f2c"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d1.qpy",
+      "sha256": "9d673e1f582052d9dcb2597ff1fd7a83370b622e94314550a25fe3c58aca04cc"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d2.qpy",
+      "sha256": "e7fcef3495b0d2498e22610b9bf8bbc473ae634db3aba749865f44ce689110e3"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d3.qpy",
+      "sha256": "33dd73938980346030d0ba3d8eb82bc5519a46799538295114bf1c2f0f836455"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d4.qpy",
+      "sha256": "6d78e3551e2337c5bc72685aecc6ccd3790ff3884be5d2ef1bd5353cf85b93f2"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d5.qpy",
+      "sha256": "c695d565325130657304c6d50b9601bc63351852b227d5baf2e5fe6c957716c8"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d6.qpy",
+      "sha256": "0c344efddedc2edf123017bfc5b8fc1a68e752ed66f14016536ca78fc393ecda"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d7.qpy",
+      "sha256": "2b1878ed9b85110c6eca362b7b9b96ca615162577a0675faba2f114d58147e33"
+    },
+    {
+      "file": "vendor/conference_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/structured_exact_mixed_d8.qpy",
+      "sha256": "c15bd7e568d0b6cee2ca986c454aab43397426d5d7e262673264ede346312e11"
+    },
+    {
+      "file": "vendor/conference_v21/code/ours_generic_clique_partition_development_v1/prototype.py",
+      "sha256": "1be2ebc4ba3377c5bea1c4a405f90d5840f8b00de4a4f6405eacd095f33f880d"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_multitarget_constructive_phase_v1.py",
+      "sha256": "cd8045ea2a617c2f46f9a41e947be3e07fabaf545811655b506b8378a13a0876"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_multitarget_exact_core_v1.py",
+      "sha256": "3bf34cff029279449dc1bdfd6511eba3d36530a12db9878ab26f697f0f6385c1"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_multitarget_phase_core_v2.py",
+      "sha256": "40423e3c73dc23d7ce9fb3f6d1722f4278c07158f2c6be51cd44283c46415e8d"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_manifest_v5.json",
+      "sha256": "d39c67b265a9cdaf5c87f0d5d424fc21108fa47fb2725492f56ff8aa5bfcf6c9"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d1.qpy",
+      "sha256": "6ef75938b136ae67828ab4d8eb9ef467b080068e7efaba6935c502d7e3d60cd6"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d2.qpy",
+      "sha256": "33173e576195168cb1c0a48ab69cb7c4584556d3b5a8a0f50e4a5ef758e4b1be"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d3.qpy",
+      "sha256": "35a1b3cd752e08ab123ab146eb35972d38437a3a96e4b431e4799418bc158ae2"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d4.qpy",
+      "sha256": "ff8b4e9bb0ffd5b0026e0df60c512ca82cece905494a8069e85af309fe08fdbf"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d5.qpy",
+      "sha256": "6601a2034eb224ad50f8734083fe9fc451544581041c7fbc401ea5b97db58436"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d6.qpy",
+      "sha256": "4650f5e5e862852f02e71339c15d70edf383780e860dcb3aa3bafbced37bc440"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d7.qpy",
+      "sha256": "e1216c66ca36f7c7130744946650120edfc407a7670d6df78a39fa591adc4fdb"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/mis_phase_portable_v5/mis_phase_templates_v5/conditional_phase_mixed_d8.qpy",
+      "sha256": "516fda34f043ccf3a8d3c0cb85decd32d8fe4b44884d4ce8a098214dd034926b"
+    },
+    {
+      "file": "vendor/query_sharing_v21/code/ours_shared_flag_core_v1.py",
+      "sha256": "49a34c43ca3b03e95460f99e99326919fcd20cddf7e926cdda375c10e66d2137"
+    }
+  ]
+}

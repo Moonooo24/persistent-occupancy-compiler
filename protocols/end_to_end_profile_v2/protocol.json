@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "case": "fullentry_n32_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n32_d4_two.json",
+      "trial": 0,
+      "sha256": "5a6f202fde2a4db54631f5bd7bf0ab23308bd1ed9edf77a460105b1c567b5b79"
+    },
+    {
+      "case": "fullentry_n32_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n32_d4_two.json",
+      "trial": 1,
+      "sha256": "5a6f202fde2a4db54631f5bd7bf0ab23308bd1ed9edf77a460105b1c567b5b79"
+    },
+    {
+      "case": "fullentry_n32_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n32_d4_two.json",
+      "trial": 2,
+      "sha256": "5a6f202fde2a4db54631f5bd7bf0ab23308bd1ed9edf77a460105b1c567b5b79"
+    },
+    {
+      "case": "fullentry_n64_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n64_d4_two.json",
+      "trial": 0,
+      "sha256": "3608d9ed50cee9a9a68406e73e273bbce41c3e690c6ef9a290cc13994b6bd4ae"
+    },
+    {
+      "case": "fullentry_n64_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n64_d4_two.json",
+      "trial": 1,
+      "sha256": "3608d9ed50cee9a9a68406e73e273bbce41c3e690c6ef9a290cc13994b6bd4ae"
+    },
+    {
+      "case": "fullentry_n64_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n64_d4_two.json",
+      "trial": 2,
+      "sha256": "3608d9ed50cee9a9a68406e73e273bbce41c3e690c6ef9a290cc13994b6bd4ae"
+    },
+    {
+      "case": "fullentry_n128_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n128_d4_two.json",
+      "trial": 0,
+      "sha256": "5d880cbe84b83392eff2f3d17865abcd237f32035c81b931ef2a2a48e15d744d"
+    },
+    {
+      "case": "fullentry_n128_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n128_d4_two.json",
+      "trial": 1,
+      "sha256": "5d880cbe84b83392eff2f3d17865abcd237f32035c81b931ef2a2a48e15d744d"
+    },
+    {
+      "case": "fullentry_n128_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n128_d4_two.json",
+      "trial": 2,
+      "sha256": "5d880cbe84b83392eff2f3d17865abcd237f32035c81b931ef2a2a48e15d744d"
+    },
+    {
+      "case": "fullentry_n256_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n256_d4_two.json",
+      "trial": 0,
+      "sha256": "1790b18e383888404bf179775d606f256f628f2f0d49f36c8088861be06c2d47"
+    },
+    {
+      "case": "fullentry_n256_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n256_d4_two.json",
+      "trial": 1,
+      "sha256": "1790b18e383888404bf179775d606f256f628f2f0d49f36c8088861be06c2d47"
+    },
+    {
+      "case": "fullentry_n256_d4_two",
+      "file": "protocols/end_to_end_profile_v2/fullentry_n256_d4_two.json",
+      "trial": 2,
+      "sha256": "1790b18e383888404bf179775d606f256f628f2f0d49f36c8088861be06c2d47"
+    }
+  ]
+}

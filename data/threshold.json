@@ -1,0 +1,634 @@
+{
+  "rows": [
+    {
+      "p": 1,
+      "mode": "none",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 26,
+            "qubits": 6,
+            "depth": 39,
+            "two_qubit_depth": 23,
+            "rz": 16,
+            "total_1q": 28,
+            "parameterized_rz": 16
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 26,
+            "qubits": 6,
+            "depth": 53,
+            "two_qubit_depth": 23,
+            "rz": 40,
+            "total_1q": 52,
+            "parameterized_rz": 16
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 26,
+            "qubits": 6,
+            "depth": 53,
+            "two_qubit_depth": 23,
+            "rz": 40,
+            "total_1q": 52,
+            "parameterized_rz": 16
+          }
+        }
+      ]
+    },
+    {
+      "p": 1,
+      "mode": "all",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 34,
+            "qubits": 6,
+            "depth": 52,
+            "two_qubit_depth": 28,
+            "rz": 16,
+            "total_1q": 28,
+            "parameterized_rz": 16
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 24,
+            "qubits": 6,
+            "depth": 48,
+            "two_qubit_depth": 18,
+            "rz": 40,
+            "total_1q": 52,
+            "parameterized_rz": 16
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 24,
+            "qubits": 6,
+            "depth": 48,
+            "two_qubit_depth": 18,
+            "rz": 40,
+            "total_1q": 52,
+            "parameterized_rz": 16
+          }
+        }
+      ]
+    },
+    {
+      "p": 1,
+      "mode": "selected",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 26,
+            "qubits": 6,
+            "depth": 39,
+            "two_qubit_depth": 23,
+            "rz": 16,
+            "total_1q": 28,
+            "parameterized_rz": 16
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 26,
+            "qubits": 6,
+            "depth": 53,
+            "two_qubit_depth": 23,
+            "rz": 40,
+            "total_1q": 52,
+            "parameterized_rz": 16
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 26,
+            "qubits": 6,
+            "depth": 53,
+            "two_qubit_depth": 23,
+            "rz": 40,
+            "total_1q": 52,
+            "parameterized_rz": 16
+          }
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "mode": "none",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 58,
+            "qubits": 6,
+            "depth": 75,
+            "two_qubit_depth": 46,
+            "rz": 35,
+            "total_1q": 59,
+            "parameterized_rz": 35
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 58,
+            "qubits": 6,
+            "depth": 99,
+            "two_qubit_depth": 46,
+            "rz": 83,
+            "total_1q": 107,
+            "parameterized_rz": 35
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 58,
+            "qubits": 6,
+            "depth": 99,
+            "two_qubit_depth": 46,
+            "rz": 83,
+            "total_1q": 107,
+            "parameterized_rz": 35
+          }
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "mode": "all",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 62,
+            "qubits": 6,
+            "depth": 95,
+            "two_qubit_depth": 50,
+            "rz": 35,
+            "total_1q": 59,
+            "parameterized_rz": 35
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 46,
+            "qubits": 6,
+            "depth": 87,
+            "two_qubit_depth": 34,
+            "rz": 83,
+            "total_1q": 107,
+            "parameterized_rz": 35
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 46,
+            "qubits": 6,
+            "depth": 87,
+            "two_qubit_depth": 34,
+            "rz": 83,
+            "total_1q": 107,
+            "parameterized_rz": 35
+          }
+        }
+      ]
+    },
+    {
+      "p": 2,
+      "mode": "selected",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 58,
+            "qubits": 6,
+            "depth": 75,
+            "two_qubit_depth": 46,
+            "rz": 35,
+            "total_1q": 59,
+            "parameterized_rz": 35
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 58,
+            "qubits": 6,
+            "depth": 99,
+            "two_qubit_depth": 46,
+            "rz": 83,
+            "total_1q": 107,
+            "parameterized_rz": 35
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 58,
+            "qubits": 6,
+            "depth": 99,
+            "two_qubit_depth": 46,
+            "rz": 83,
+            "total_1q": 107,
+            "parameterized_rz": 35
+          }
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "mode": "none",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 90,
+            "qubits": 6,
+            "depth": 111,
+            "two_qubit_depth": 69,
+            "rz": 54,
+            "total_1q": 90,
+            "parameterized_rz": 54
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 90,
+            "qubits": 6,
+            "depth": 145,
+            "two_qubit_depth": 69,
+            "rz": 126,
+            "total_1q": 162,
+            "parameterized_rz": 54
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 90,
+            "qubits": 6,
+            "depth": 145,
+            "two_qubit_depth": 69,
+            "rz": 126,
+            "total_1q": 162,
+            "parameterized_rz": 54
+          }
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "mode": "all",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 90,
+            "qubits": 6,
+            "depth": 138,
+            "two_qubit_depth": 72,
+            "rz": 54,
+            "total_1q": 90,
+            "parameterized_rz": 54
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 68,
+            "qubits": 6,
+            "depth": 126,
+            "two_qubit_depth": 50,
+            "rz": 126,
+            "total_1q": 162,
+            "parameterized_rz": 54
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 68,
+            "qubits": 6,
+            "depth": 126,
+            "two_qubit_depth": 50,
+            "rz": 126,
+            "total_1q": 162,
+            "parameterized_rz": 54
+          }
+        }
+      ]
+    },
+    {
+      "p": 3,
+      "mode": "selected",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 86,
+            "qubits": 6,
+            "depth": 130,
+            "two_qubit_depth": 70,
+            "rz": 54,
+            "total_1q": 90,
+            "parameterized_rz": 54
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 72,
+            "qubits": 6,
+            "depth": 132,
+            "two_qubit_depth": 56,
+            "rz": 126,
+            "total_1q": 162,
+            "parameterized_rz": 54
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 72,
+            "qubits": 6,
+            "depth": 132,
+            "two_qubit_depth": 56,
+            "rz": 126,
+            "total_1q": 162,
+            "parameterized_rz": 54
+          }
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "mode": "none",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 122,
+            "qubits": 6,
+            "depth": 147,
+            "two_qubit_depth": 92,
+            "rz": 73,
+            "total_1q": 121,
+            "parameterized_rz": 73
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 122,
+            "qubits": 6,
+            "depth": 191,
+            "two_qubit_depth": 92,
+            "rz": 169,
+            "total_1q": 217,
+            "parameterized_rz": 73
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 122,
+            "qubits": 6,
+            "depth": 191,
+            "two_qubit_depth": 92,
+            "rz": 169,
+            "total_1q": 217,
+            "parameterized_rz": 73
+          }
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "mode": "all",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 118,
+            "qubits": 6,
+            "depth": 181,
+            "two_qubit_depth": 94,
+            "rz": 73,
+            "total_1q": 121,
+            "parameterized_rz": 73
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 90,
+            "qubits": 6,
+            "depth": 165,
+            "two_qubit_depth": 66,
+            "rz": 169,
+            "total_1q": 217,
+            "parameterized_rz": 73
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 90,
+            "qubits": 6,
+            "depth": 165,
+            "two_qubit_depth": 66,
+            "rz": 169,
+            "total_1q": 217,
+            "parameterized_rz": 73
+          }
+        }
+      ]
+    },
+    {
+      "p": 4,
+      "mode": "selected",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 114,
+            "qubits": 6,
+            "depth": 171,
+            "two_qubit_depth": 92,
+            "rz": 73,
+            "total_1q": 121,
+            "parameterized_rz": 73
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 96,
+            "qubits": 6,
+            "depth": 173,
+            "two_qubit_depth": 74,
+            "rz": 169,
+            "total_1q": 217,
+            "parameterized_rz": 73
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 96,
+            "qubits": 6,
+            "depth": 173,
+            "two_qubit_depth": 74,
+            "rz": 169,
+            "total_1q": 217,
+            "parameterized_rz": 73
+          }
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "mode": "none",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 250,
+            "qubits": 6,
+            "depth": 291,
+            "two_qubit_depth": 184,
+            "rz": 149,
+            "total_1q": 245,
+            "parameterized_rz": 149
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 250,
+            "qubits": 6,
+            "depth": 375,
+            "two_qubit_depth": 184,
+            "rz": 341,
+            "total_1q": 437,
+            "parameterized_rz": 149
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 250,
+            "qubits": 6,
+            "depth": 375,
+            "two_qubit_depth": 184,
+            "rz": 341,
+            "total_1q": 437,
+            "parameterized_rz": 149
+          }
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "mode": "all",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 230,
+            "qubits": 6,
+            "depth": 353,
+            "two_qubit_depth": 182,
+            "rz": 149,
+            "total_1q": 245,
+            "parameterized_rz": 149
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 178,
+            "qubits": 6,
+            "depth": 321,
+            "two_qubit_depth": 130,
+            "rz": 341,
+            "total_1q": 437,
+            "parameterized_rz": 149
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 178,
+            "qubits": 6,
+            "depth": 321,
+            "two_qubit_depth": 130,
+            "rz": 341,
+            "total_1q": 437,
+            "parameterized_rz": 149
+          }
+        }
+      ]
+    },
+    {
+      "p": 8,
+      "mode": "selected",
+      "rows": [
+        {
+          "stage": "raw",
+          "metrics": {
+            "cx": 226,
+            "qubits": 6,
+            "depth": 335,
+            "two_qubit_depth": 180,
+            "rz": 149,
+            "total_1q": 245,
+            "parameterized_rz": 149
+          }
+        },
+        {
+          "stage": "native",
+          "metrics": {
+            "cx": 192,
+            "qubits": 6,
+            "depth": 337,
+            "two_qubit_depth": 146,
+            "rz": 341,
+            "total_1q": 437,
+            "parameterized_rz": 149
+          }
+        },
+        {
+          "stage": "post",
+          "metrics": {
+            "cx": 192,
+            "qubits": 6,
+            "depth": 337,
+            "two_qubit_depth": 146,
+            "rz": 341,
+            "total_1q": 437,
+            "parameterized_rz": 149
+          }
+        }
+      ]
+    }
+  ]
+}
