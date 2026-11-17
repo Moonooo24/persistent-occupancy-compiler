@@ -58,3 +58,7 @@ The Qiskit level-1 check uses the same all-to-all basis, fixed transpiler seed a
 - On Linux, `python -B code/end_to_end_profile_worker_v2.py --index 0` runs one of the 12 complete-entry timing jobs. The indices run from 0 to 11. For the Windows single-path timings, use `code/scaling_worker_v2.py` with a case from `protocols/scaling_v2/`, mode `all` or `selected`, and trial `0`, `1`, or `2`. Archived timings are hardware dependent.
 - `protocols/artifact_source_lock.json` identifies the exact byte versions included here and records the original experiment source-lock digest. `data/recorded_provenance.json` lists digests of the original result collections used to curate the public records.
 - Third-party redistribution terms and attribution are in `third_party/`. CMU COLOR graph downloads are described in `data/public_inputs.json`.
+
+## License
+
+Original software in this repository is released under the [Apache License 2.0](LICENSE). The [third-party notices](third_party/NOTICE.md) identify retained upstream terms. The public CMU COLOR inputs are retrieved from their original source under its applicable terms.
